@@ -10,7 +10,7 @@ from PIL import Image, ImageTk
 import sqlite3
 import csv
 
-# Funções existentes...
+
 def submit_resume():
     nome = entry_nome.get()
     idade = entry_idade.get()
