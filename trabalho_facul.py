@@ -1,5 +1,6 @@
 #cleber dos santos souza-202209119951
 #Átila Adley Bastos Silva-202208979432
+#Fernanda Peres kwamme de Castro-202211277001
 
 import tkinter as tk
 from tkinter import ttk
